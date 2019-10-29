@@ -1,0 +1,11 @@
+.result {
+  background-color: rgb(87, 85, 85);
+  height: 60px;
+  width: 100%;
+}
+
+.result p {
+  font-size: 3rem;
+  color: white;
+  text-align: right;
+}

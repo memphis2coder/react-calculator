@@ -1,0 +1,15 @@
+.button {
+  background-color: #fe9241;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 1.5rem;
+  border: 1px solid black;
+}
+
+.orange {
+  background-color: #fe9241;
+  color: white;
+}
